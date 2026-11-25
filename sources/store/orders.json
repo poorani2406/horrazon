@@ -1,0 +1,50 @@
+[
+  {
+    "order_id": "O1",
+    "customer_phone": "+91 98765 43210",
+    "order_ts": "2026-08-02T10:00:00+05:30",
+    "updated_at": "2026-08-02T11:00:00+05:30",
+    "status": "PAID",
+    "payment_mode": "UPI",
+    "total_amount": "1299.00",
+    "items": [
+      {
+        "sku": "SHIRT1",
+        "qty": "1",
+        "unit_price": "1299.00"
+      }
+    ]
+  },
+  {
+    "order_id": "O2",
+    "phone_number": "09876543211",
+    "order_ts": "2026-08-02T05:30:00Z",
+    "updated_at": "2026-08-02T06:00:00Z",
+    "status": "CANCELED",
+    "payment_mode": "CARD",
+    "total_amount": "129900",
+    "items": [
+      {
+        "sku": "TOP1",
+        "qty": "1",
+        "unit_price": "1299.00"
+      }
+    ]
+  },
+  {
+    "order_id": "O1",
+    "customer_phone": "+91 98765 43210",
+    "order_ts": "2026-08-02T10:00:00+05:30",
+    "updated_at": "2026-08-04T10:00:00+05:30",
+    "status": "SHIPPED",
+    "payment_mode": "UPI",
+    "total_amount": "1299.00",
+    "items": [
+      {
+        "sku": "SHIRT1",
+        "qty": "1",
+        "unit_price": "1299.00"
+      }
+    ]
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "campaign_id": "C1",
+    "campaign_name": "Summer Shirts",
+    "platform": "Meta",
+    "date": "2026-08-01",
+    "spend": "₹1,250.50",
+    "impressions": 10000,
+    "clicks": 250,
+    "updated_at": "2026-08-02T02:00:00+00:00"
+  },
+  {
+    "campaign_id": "C2",
+    "campaign_name": "Festive Search ",
+    "platform": "Google",
+    "date": "01/08/2026",
+    "spend": "900.00",
+    "impressions": 8000,
+    "clicks": 190,
+    "updated_at": "2026-08-02T02:00:00+00:00"
+  },
+  {
+    "campaign_id": "C1",
+    "campaign_name": " summer shirts ",
+    "platform": "Meta",
+    "date": "2026-08-01",
+    "spend": "1300.00",
+    "impressions": 10000,
+    "clicks": 250,
+    "updated_at": "2026-08-03T02:00:00+00:00"
+  },
+  {
+    "campaign_id": "C3",
+    "campaign_name": "Bad Clicks",
+    "platform": "Meta",
+    "date": "2026-08-01",
+    "spend": "100",
+    "impressions": 100,
+    "clicks": 150,
+    "updated_at": "2026-08-02T02:00:00+00:00"
+  }
+]
